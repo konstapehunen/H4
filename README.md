@@ -6,13 +6,13 @@
    
 
 ### 1) Tarkastele käytössäsi olevia RFID tuotteita, mieti miten hyvin olet suojautunut RFID urkinnalta?
--Pankkikortti
-    - Pankkikortti nahkalompakossa, joka ei ole RFID-suojattu
-    - Joku voisi käytännössä veloittaa luvatta lähimaksulla: epätodennäköistä, sillä uskon siitä jäävän kiinni helpolla
--Henkilökortti
-    - Henkilökortti myös lompakossa suojaamattomana
+- Pankkikortti  
+    - Pankkikortti nahkalompakossa, joka ei ole RFID-suojattu  
+    - Joku voisi käytännössä veloittaa luvatta lähimaksulla: epätodennäköistä, sillä uskon siitä jäävän kiinni helpolla  
+- Henkilökortti  
+    - Henkilökortti myös lompakossa suojaamattomana  
     - Henkilötietojen lukeminen luvatta
--iLOQ S5-avain
+- iLOQ S5-avain  
     - Ei voi kopioida 
     - Väärinkäytökset helposti jäljitettävissä
       (iLOQ s.a)
