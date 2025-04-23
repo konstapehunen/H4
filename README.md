@@ -4,7 +4,7 @@
 2. Tutustu APDU komentojen rakenteeseen (voit käyttää tekoälyä tutustumiseen)
 3. Tutki ja kerro minkä mielenkiintoisen RFID hakkerointi uutiset löysit. (Vinkki, useimmat liittyvät henkilökortteihin)  
 
-1. Tarkastele käytössäsi olevia RFID tuotteita, mieti miten hyvin olet suojautunut RFID urkinnalta?
+1) Tarkastele käytössäsi olevia RFID tuotteita, mieti miten hyvin olet suojautunut RFID urkinnalta?
 -Pankkikortti
     - Pankkikortti nahkalompakossa, joka ei ole RFID-suojattu
     - Joku voisi käytännössä veloittaa luvatta lähimaksulla: epätodennäköistä, sillä uskon siitä jäävän kiinni helpolla
