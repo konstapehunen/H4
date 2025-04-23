@@ -16,7 +16,7 @@
     - Väärinkäytökset helposti jäljitettävissä
       (iLOQ s.a)
       
-3. APDU
+2) APDU
 - on viestimuoto, jota käytetään älykortin (esimerkiksi RFID-kortti) ja lukijan välisessä viestinnässä
 - APDU-komennon rakenne: | CLA | INS | P1 | P2 | Lc | Data | Le |
     - CLA-kenttä on komennon luokka. kertoo älykortille miten koko viesti tulee tulkita.
@@ -26,15 +26,14 @@
     - Data-kenttä: Ilmenee vain silloin kun lähetetään dataa. Sisältää itse datan.
     - Le: Käytetään kun halutaan lukea jotain kortilta. Kertoo kuinka monta tavua dataa odotetaan kortilta vastauksena.
     
-3. RFID-hakkerointiuutinen
+3) RFID-hakkerointiuutinen
 Uutinen luettavissa: ["Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide"](https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html)
-
 
 uutisessa kerrotaan, että FM11RF08S-nimisessä RFID-Korttimallisa, joka on MIFARE Classic -variantti on laitteistotason takaportti.  
 Takaportti mahdollistaa, että kortin voi avata ja kloonata ilman oikeaa avainta eikä edes suojaus auta, sillä takaportti ohittaa suojauksen.  
 Kyseisiä kortteja käytetään hotelleiden- ja toimistojen ovissa sekä julkisessa liikenteessä. Kortteja on käytössä miljoonia ympäri maailmaa. 
 
-Lähteet
+Lähteet  
 The Hacker News 2024. Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide.  
 Luettavissa: https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html.  
 Luettu: 22.04.2025.  
