@@ -38,8 +38,6 @@ Kyseisiä kortteja käytetään hotelleiden- ja toimistojen ovissa sekä julkise
 
 ### Lähteet  
 The Hacker News 2024. Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide.  
-Luettavissa: https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html.  
-Luettu: 22.04.2025.  
+Luettavissa: https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html. Luettu: 22.04.2025.  
 
-iLOQ s.a. Hyödyt. Luettavissa: https://www.iloq.com/fi/hyodyt/.  
-Luettu 22.04.2025.
+iLOQ s.a. Hyödyt. Luettavissa: https://www.iloq.com/fi/hyodyt/. Luettu 22.04.2025.
